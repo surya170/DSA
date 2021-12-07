@@ -10,6 +10,6 @@ Pattern Problems in java
 Solutions to Different Problems
 A unique compilation of Java puzzles.
 
-Over 150 problems with detailed solutions.
+Over 15 problems with detailed solutions.
 
 Patterns in the form of problems is very helpful in understanding the concepts in Java programming.
