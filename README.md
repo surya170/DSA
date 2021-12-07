@@ -1,4 +1,4 @@
-# DSA
+# Pattern Programming 
 Contains a Pattern Problems in java Problems with Solutions which are solved by various ways.
 
 Contains of more than 15+ of problems with solutions of each problem.
